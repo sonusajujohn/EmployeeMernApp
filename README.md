@@ -1,5 +1,5 @@
-# EmployeeMernApp
+# Employee App Using Mern Stack
 
-###LOGIN CREDENTIALS
-####USERNAME : sonu
-####Password : 12345
+### LOGIN CREDENTIALS
+#### USERNAME : sonu
+#### Password : 12345
